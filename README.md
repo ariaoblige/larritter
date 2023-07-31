@@ -3,7 +3,8 @@
 ## Features
 Larritter removes:
  * The 'obtain verified' ad at the top-right of the page;
- * The 'verified' tab in the left section.
+ * The 'verified' tab in the left section;
+ * Views are completely hidden from the main timeline page.
 
 Larritter changes:
  * The 'X' logo at the top-left, replacing it with Larry the Bird;
@@ -11,5 +12,12 @@ Larritter changes:
  * The 'X Corp.' at the bottom-right gets replaced with 'Twitter Inc.';
  * 'See new posts' is changed back to 'See new Tweets';
  * 'Pinned' goes back to 'Pinned Tweet'.
+ * 'Post' buttons are changed back to 'Tweet' (includes 'Post all');
+
+## Known issues
+The main page supports all of the previously mentioned features. However, I've noticed some problems:
+ * Pages such as profiles or searches won't hide views as of now;
+ * It's still possible that some places still call Tweets as posts.
+
 ## Plans
  As soon as other changes are noticed by me, I'll try to add them as soon as possible.
