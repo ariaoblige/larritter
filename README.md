@@ -4,7 +4,8 @@
 Larritter removes:
  * The 'obtain verified' ad at the top-right of the page;
  * The 'verified' tab in the left section;
- * Views are completely hidden from the main timeline page.
+ * Views (affects only the main timeline page as of now);
+ * The Highlights tab.
 
 Larritter changes:
  * The 'X' logo at the top-left, replacing it with Larry the Bird;
